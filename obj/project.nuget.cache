@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RBzP9LgEQytc4bzrl/JObp+eGAhz+K3AxjJi+q5pgHjQfoQrIcbofH/KL1/77lKtyxqSCMnQmx81V106ch3qnQ==",
+  "success": true,
+  "projectFilePath": "E:\\Jetbrains\\Development\\osu\\PPCalculator\\PPCalculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\syscall\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
